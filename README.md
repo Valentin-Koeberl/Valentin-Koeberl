@@ -17,7 +17,7 @@ I am a student at **HTL 3 Rennweg**, specializing in **Media Technology** for th
 **Skills:** Video Production, Design, Web Development, Social Media, Project Management
 
 ### 2. Webt 2024/2025
-**Description:** My school tasks of the Subject Webdevelopment are all safed in a repositoryon Github.This repository is all about DreamLabs. DreamLabs Production is a virtual company founded by Laurens Vidan and Valentin Köberl as part of the Media Technology course at HTL 3 Rennweg. In this course, we focus on web technologies, particularly HTML5, CSS, PHP and JavaScript.
+**Description:** My school tasks of the Subject Webdevelopment are all safed in a repositoryon Github. This repository is all about DreamLabs. DreamLabs Production is a virtual company founded by Laurens Vidan and Valentin Köberl as part of the Media Technology course at HTL 3 Rennweg. In this course, we focus on web technologies, particularly HTML5, CSS, PHP and JavaScript.
 
 **Technologies:** HTML5, CSS, Javascript
 
@@ -28,7 +28,7 @@ I am a student at **HTL 3 Rennweg**, specializing in **Media Technology** for th
 
 ## Contact
 
-- 📧 **Email:** valentinkoeberl@icloud.com
+- 📧 **Email:** contact@valentinkoeberl.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/valentin-k%C3%B6berl-988128290/
 - 🌐 **Portfolio:** https://www.valentinkoeberl.com/portfolio/
 - 👥 **Linktree:** https://linktree.valentinkoeberl.com
