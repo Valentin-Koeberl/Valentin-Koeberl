@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Valentin Köberl 👋
 
 I am a student at **HTL 3 Rennweg**, specializing in **Media Technology** for the next two years. Here you can find an overview of my projects and interests 😎
 
